@@ -1,7 +1,10 @@
 <!-- =========================
      HERO / BANNER
 ========================= -->
-![Image](https://github.com/user-attachments/assets/4ca915e1-f335-4c55-a5ef-b984c3a1f239)
+
+<p align="center">
+  <img src="[https://github.com/user-attachments/assets/e0392bd3-c394-495a-85b0-1b6858e05e24](https://github.com/user-attachments/assets/4ca915e1-f335-4c55-a5ef-b984c3a1f239)" height="400"/>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f0c29&height=150&section=header&text=harif&fontSize=44&fontColor=00FFAA&font=Fira%20Code&animation=fadeIn&fontAlignY=50&desc=%3E%20infrastructure%20%7C%20cybersec%20%7C%20AI&descAlignY=70&descSize=14" />
@@ -189,6 +192,10 @@ Repeat until resilient.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 </p>
 
+<br>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e0392bd3-c394-495a-85b0-1b6858e05e24" width="400"/>
 </p>
+
+<br>
