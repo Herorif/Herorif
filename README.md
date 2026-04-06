@@ -1,11 +1,12 @@
 <!-- =========================
      HERO / BANNER
 ========================= -->
-
+<p align="center">
 ![Image](https://github.com/user-attachments/assets/4ca915e1-f335-4c55-a5ef-b984c3a1f239)
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=HARIF&fontSize=48&fontColor=00F5FF&font=Share%20Tech%20Mono&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Infrastructure%20%7C%20AI%20Systems&descAlignY=58&descSize=18&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=harif&fontSize=42&fontColor=E0F7FA&font=Share%20Tech%20Mono&animation=fadeIn&fontAlignY=40&desc=infra%20%7C%20security%20%7C%20systems&descAlignY=65&descSize=16" />
 </p>
 
 <p align="center">
