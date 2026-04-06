@@ -138,18 +138,6 @@ long_term:
   <img height="170" src="https://streak-stats.demolab.com?user=Herorif&theme=transparent&hide_border=true&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herorif&layout=compact&theme=transparent&hide_border=true&title_color=00F5FF&text_color=C9D1D9" />
-</p>
-
----
-
-## `achievements`
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Herorif&theme=algolia&no-frame=true&no-bg=true&row=1&margin-w=12" />
-</p>
-
 ---
 
 ## `connect.sh`
