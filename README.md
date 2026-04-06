@@ -69,6 +69,71 @@ Building systems that are meant to survive failure
   <img src="https://img.shields.io/badge/Network-Stable-121212?style=flat-square" />
   <img src="https://img.shields.io/badge/Incidents-0%20Critical-121212?style=flat-square" />
   <img src="https://img.shields.io/badge/Mode-Fail%20Secure-121212?style=flat-square" />
+</p><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=HARIF&fontSize=48&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Infrastructure%20%7C%20AI%20Systems&descAlignY=58&descSize=18" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=%3E+initializing+profile...;%3E+loading+skills...;%3E+checking+system+integrity...;%3E+status%3A+OPERATIONAL;%3E+path%3A+Cybersecurity+to+Infrastructure+Engineering" />
+</p>
+
+---
+
+## `whoami`
+
+```bash
+harif@github:~$ whoami
+
+Cybersecurity graduate from Malaysia
+Incoming Oracle Data Centre Trainee
+Focused on infrastructure, resilience, and attack simulation
+Building systems that are meant to survive failure
+```
+
+---
+
+## `current_status`
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Core Focus
+- Infrastructure security
+- Data centre operations
+- AI systems and automation
+- Homelab engineering
+- Attack simulation and resilience testing
+
+</td>
+<td valign="top" width="50%">
+
+### Current Work
+- Smart Traffic Cybersecurity Simulator
+- Homelab with self-hosted services
+- AI + security integration projects
+- Long term path toward infra engineering and SRE
+
+</td>
+</tr>
+</table>
+
+---
+
+## `system_dashboard`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/System%20Status-OPERATIONAL-0f0?style=for-the-badge&logo=verizon&logoColor=black" />
+  <img src="https://img.shields.io/badge/Threat%20Modeling-ACTIVE-00c8ff?style=for-the-badge&logo=ghostery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Homelab-ONLINE-7a5cff?style=for-the-badge&logo=homeassistant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infra%20Track-IN%20PROGRESS-ff4ecd?style=for-the-badge&logo=datadog&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CPU%20Usage-73%25-121212?style=flat-square" />
+  <img src="https://img.shields.io/badge/Network-Stable-121212?style=flat-square" />
+  <img src="https://img.shields.io/badge/Incidents-0%20Critical-121212?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mode-Fail%20Secure-121212?style=flat-square" />
 </p>
 
 ---
@@ -92,7 +157,7 @@ Building systems that are meant to survive failure
 
 ### Data and AI
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -102,7 +167,7 @@ Building systems that are meant to survive failure
 ### Systems, Infra and IoT
 <p>
   <img src="https://skillicons.dev/icons?i=raspberrypi,ansible,grafana,mysql,postgresql,sqlite,git,arduino" />
-  <img src="https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
   <img src="https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
@@ -121,7 +186,8 @@ current_track:
 next_target:
   - Infrastructure Engineer
   - SRE / Platform path
-  - High-availability systems
+  - High availability systems
+  - Singapore growth trajectory
 
 long_term:
   - IC2 / IC3 progression
@@ -131,11 +197,25 @@ long_term:
 
 ---
 
-## `github_telemetry`
+## `github_overview`
+
+> Dynamic public stat cards removed because those widget services can fail to load inconsistently.
+> If you want stable analytics here, generate your own cards with GitHub Actions using `github-profile-summary-cards`.
+
+<!-- After setting up github-profile-summary-cards in your repo, replace YOUR_USERNAME below -->
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Herorif&show_icons=true&theme=transparent&hide_border=true&title_color=00F5FF&text_color=C9D1D9&icon_color=00F5FF&ring_color=00F5FF" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Herorif&theme=transparent&hide_border=true&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+  <img src="https://raw.githubusercontent.com/Herorif/Herorif/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Herorif/Herorif/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/Herorif/Herorif/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Herorif/Herorif/main/profile-summary-card-output/github_dark/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/Herorif/Herorif/main/profile-summary-card-output/github_dark/4-productive-time.svg" />
 </p>
 
 ---
