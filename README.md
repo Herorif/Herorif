@@ -70,7 +70,11 @@ Building systems that are meant to survive failure
 
 ---
 
-## `tech_stack` ![Image](https://github.com/user-attachments/assets/e657ec3f-4498-4aba-93c3-ba48f4a15683)
+<table>
+<tr>
+<td valign="top">
+
+## `tech_stack`
 
 ### Languages
 <p>
@@ -90,19 +94,30 @@ Building systems that are meant to survive failure
 ### Data and AI
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
 </p>
 
 ### Systems, Infra and IoT
 <p>
   <img src="https://skillicons.dev/icons?i=raspberrypi,ansible,grafana,mysql,postgresql,sqlite,git,arduino" />
-  <img src="https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pi--hole-96060C?style=flat&logo=pi-hole&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
 </p>
+
+</td>
+
+<td valign="middle" align="center">
+
+<img src="https://github.com/user-attachments/assets/e657ec3f-4498-4aba-93c3-ba48f4a15683" width="150"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -174,4 +189,6 @@ Repeat until resilient.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 </p>
 
-![Image](https://github.com/user-attachments/assets/e0392bd3-c394-495a-85b0-1b6858e05e24)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e0392bd3-c394-495a-85b0-1b6858e05e24" width="400"/>
+</p>
