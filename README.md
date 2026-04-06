@@ -78,6 +78,9 @@ Building systems that are meant to survive failure
 <td valign="top">
 
 ## `tech_stack`
+<p>
+<img src="https://github.com/user-attachments/assets/e657ec3f-4498-4aba-93c3-ba48f4a15683" width="150"/>
+</p>
 
 ### Languages
 <p>
@@ -110,12 +113,6 @@ Building systems that are meant to survive failure
   <img src="https://img.shields.io/badge/Pi--hole-96060C?style=flat&logo=pi-hole&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
 </p>
-
-</td>
-
-<td valign="middle" align="center">
-
-<img src="https://github.com/user-attachments/assets/e657ec3f-4498-4aba-93c3-ba48f4a15683" width="150"/>
 
 </td>
 
