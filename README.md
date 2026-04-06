@@ -70,7 +70,7 @@ Building systems that are meant to survive failure
 
 ---
 
-## `tech_stack`
+## `tech_stack` ![Image](https://github.com/user-attachments/assets/e657ec3f-4498-4aba-93c3-ba48f4a15683)
 
 ### Languages
 <p>
@@ -173,3 +173,5 @@ Repeat until resilient.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 </p>
+
+![Image](https://github.com/user-attachments/assets/e0392bd3-c394-495a-85b0-1b6858e05e24)
