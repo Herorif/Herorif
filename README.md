@@ -3,7 +3,7 @@
 ========================= -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4ca915e1-f335-4c55-a5ef-b984c3a1f239" height="300"/>
+  <img src="https://github.com/user-attachments/assets/4ca915e1-f335-4c55-a5ef-b984c3a1f239" height="400"/>
 </p>
 
 <p align="center">
@@ -195,7 +195,7 @@ Repeat until resilient.
 <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e0392bd3-c394-495a-85b0-1b6858e05e24" height="300" width="1000"/>
+  <img src="https://github.com/user-attachments/assets/e0392bd3-c394-495a-85b0-1b6858e05e24" height="200" width="1000"/>
 </p>
 
 <br>
