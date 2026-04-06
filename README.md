@@ -77,13 +77,10 @@ Building systems that are meant to survive failure
 <tr>
 <td valign="top">
 
-<td valign="middle">
+<p style="display: inline-flex; align-items: flex-start; gap: 10px;">
   <img src="https://github.com/user-attachments/assets/e657ec3f-4498-4aba-93c3-ba48f4a15683" width="60"/>
-</td>
-
-<td valign="middle">
-  <span style="font-size: 26px;"><b>tech_stack</b></span>
-</td>
+  <span style="font-size: 26px; font-weight: 700; margin-top: 10px;">tech_stack</span>
+</p>
 
 ### Languages
 <p>
