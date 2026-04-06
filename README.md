@@ -79,7 +79,7 @@ Building systems that are meant to survive failure
 
 <p style="display: inline-flex; align-items: center; gap: 10px;">
   <img src="https://github.com/user-attachments/assets/e657ec3f-4498-4aba-93c3-ba48f4a15683" width="40" style="transform: translateY(15px);" />
-  <b style="font-size: 30px; transform: translateY(-10px);">tech_stack</b>
+  <b style="font-size: 40px; transform: translateY(-10px);">tech_stack</b>
 </p>
 
 ### Languages
