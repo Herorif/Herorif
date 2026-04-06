@@ -4,7 +4,7 @@
 ![Image](https://github.com/user-attachments/assets/4ca915e1-f335-4c55-a5ef-b984c3a1f239)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=HARIF&fontSize=48&fontColor=00F5FF&font=Orbitron&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Infrastructure%20%7C%20AI%20Systems&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f0c29&height=180&section=header&text=harif&fontSize=40&fontColor=00FFAA&font=Fira%20Code&animation=fadeIn&fontAlignY=50&desc=%3E%20infra%20%7C%20security%20%7C%20systems&descAlignY=70&descSize=14" />
 </p>
 
 <p align="center">
@@ -36,7 +36,6 @@ Building systems that are meant to survive failure
 - Data centre operations
 - AI systems and automation
 - Homelab engineering
-- Attack simulation and resilience testing
 
 </td>
 <td valign="top" width="50%">
@@ -45,7 +44,7 @@ Building systems that are meant to survive failure
 - Smart Traffic Cybersecurity Simulator
 - Homelab with self-hosted services
 - AI + security integration projects
-- Long term path toward infra engineering and SRE
+- Path toward infra engineering and SRE
 
 </td>
 </tr>
