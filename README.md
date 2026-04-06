@@ -172,7 +172,8 @@ long_term:
 Build systems that fail safely.
 Study the weak points.
 Strengthen what matters.
-Repeat until resilient.
+
+You don’t need more time. You need more intent.
 ```
 
 ---
