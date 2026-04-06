@@ -5,6 +5,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=HARIF&fontSize=48&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Infrastructure%20%7C%20AI%20Systems&descAlignY=58&descSize=18" />
 </p>
 
+![Image](https://github.com/user-attachments/assets/4ca915e1-f335-4c55-a5ef-b984c3a1f239)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=%3E+initializing+profile...;%3E+loading+skills...;%3E+checking+system+integrity...;%3E+status%3A+OPERATIONAL;%3E+path%3A+Cybersecurity+%E2%86%92+Infrastructure+Engineering" />
 </p>
