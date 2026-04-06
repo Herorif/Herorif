@@ -77,10 +77,10 @@ Building systems that are meant to survive failure
 <tr>
 <td valign="top">
 
-## `tech_stack`
 <p>
-<img src="https://github.com/user-attachments/assets/e657ec3f-4498-4aba-93c3-ba48f4a15683" width="30" height="30"/>
+<img src="https://github.com/user-attachments/assets/e657ec3f-4498-4aba-93c3-ba48f4a15683" width="45" height="45"/>
 </p>
+## `tech_stack`
 
 ### Languages
 <p>
