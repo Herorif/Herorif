@@ -4,7 +4,7 @@
 ![Image](https://github.com/user-attachments/assets/4ca915e1-f335-4c55-a5ef-b984c3a1f239)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f0c29&height=180&section=header&text=harif&fontSize=40&fontColor=00FFAA&font=Fira%20Code&animation=fadeIn&fontAlignY=50&desc=%3E%20infrastructure%20%7C%20cybersec%20%7C%20AI&descAlignY=70&descSize=14" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f0c29&height=150&section=header&text=harif&fontSize=44&fontColor=00FFAA&font=Fira%20Code&animation=fadeIn&fontAlignY=50&desc=%3E%20infrastructure%20%7C%20cybersec%20%7C%20AI&descAlignY=70&descSize=14" />
 </p>
 
 <p align="center">
