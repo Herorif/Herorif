@@ -23,7 +23,7 @@ harif@github:~$ whoami
 
 Oracle Data Centre Tech
 Focused on infrastructure, resilience, and reliability
-Building systems that are meant to survive failure
+Building stuff 
 ```
 
 ---
@@ -44,7 +44,7 @@ Building systems that are meant to survive failure
 <td valign="top" width="50%">
 
 ### Current Work
-- Smart Traffic Cybersecurity Simulator
+- JARVIS
 - Homelab with self-hosted services
 - AI + security integration projects
 - Path toward infra engineering and SRE
@@ -172,7 +172,6 @@ long_term:
 Build systems that fail safely.
 Study the weak points.
 Strengthen what matters.
-
 You don’t need more time. You need more intent.
 ```
 
