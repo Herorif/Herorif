@@ -192,7 +192,7 @@ You don’t need more time. You need more intent.
 <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e0392bd3-c394-495a-85b0-1b6858e05e24" height="100" width="850"/>
+  <img src="https://github.com/user-attachments/assets/e0392bd3-c394-495a-85b0-1b6858e05e24" height="80" width="850"/>
 </p>
 
 <br>
